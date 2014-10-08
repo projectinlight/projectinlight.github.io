@@ -255,3 +255,8 @@ footer {
 .text-primary {
     color: #4E3838;
 }
+
+a.disabled {
+   pointer-events: none;
+   cursor: default;
+}
